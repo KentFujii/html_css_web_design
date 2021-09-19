@@ -1,0 +1,1 @@
+This project is a code kata of [this](https://gihyo.jp/book/2017/978-4-7741-9064-8)
